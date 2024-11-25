@@ -1,4 +1,4 @@
-[https://github.com/E-Martynenko1982/My-chess-project.git]
+
 
 The tech stack is:
 HTML5
